@@ -1,0 +1,27 @@
+# OS Files
+.DS_Store
+Thumbs.db
+.thumbs.db
+*.tmp
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Conversion script (can be regenerated)
+convert_pdf_to_images.py
+
+# Backup files
+*.bak
+*.backup
