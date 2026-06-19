@@ -2,16 +2,16 @@
 
 ## Welcome to Veterinalia 🐾
 
-Veterinalia is a comprehensive brand identity and design system for a veterinary service, crafted to create a modern, approachable, and professional presence across digital and print media.
+Veterinalia is a comprehensive brand identity and design system for a pet services directory platform that connects pet owners with trusted service providers in their area.
 
 ## About Veterinalia
 
-Veterinalia represents the commitment to exceptional veterinary care, combining professional expertise with a warm, welcoming approach to animal health and wellness. The brand embodies:
+Veterinalia is a marketplace directory that aggregates various pet service providers—veterinarians, groomers, trainers, pet sitters, and more—making it easy for pet owners to discover and connect with quality services. The brand embodies:
 
-- **Care & Compassion**: Dedicated to the health and happiness of animals
-- **Professional Excellence**: Evidence-based veterinary practice
-- **Accessibility**: Making quality veterinary services available and approachable
-- **Community**: Building lasting relationships with pet owners
+- **Trust & Reliability**: Connecting pet owners with vetted, professional service providers
+- **Accessibility**: Making quality pet services easy to find and book
+- **Variety**: Comprehensive directory of diverse pet care and services
+- **Community**: Building a supportive ecosystem for pet owners and service providers
 
 ## 📦 What's Included
 
@@ -161,25 +161,25 @@ Veterinalia/
    - Follow layout guidelines from brand book
 
 2. **Content Categories**:
-   - Adopciones: Share adoption stories
-   - Estetoscopio: Health & medical content
-   - Estrella: Featured services/testimonials
-   - Gorrito: Surgical/specialized services
-   - Ubicación: Location & accessibility
+   - Adopciones: Adoption & rescue stories, rescue partnerships
+   - Estetoscopio: Health tips, veterinary advice, wellness content
+   - Estrella: Featured providers, success stories, testimonials
+   - Gorrito: Grooming & specialized services showcases
+   - Ubicación: Featured providers by location, service availability
 
 ### For Print
-1. Use CMYK files from `Editables/` folder
+1. Use CMYK files from `Editables/` folder for marketing collateral
 2. Specify color codes from brand guide
 3. Maintain professional print standards
-4. Request high-resolution logos for print materials
+4. Request high-resolution logos for advertising, partnerships, and promotional materials
 
 ## 🎯 Design Principles
 
-1. **Consistency**: All materials should follow brand guidelines
-2. **Clarity**: Clear hierarchy and readable typography
-3. **Warmth**: Approachable and friendly aesthetic
-4. **Professionalism**: Appropriate for healthcare/veterinary context
-5. **Accessibility**: Ensure readability and contrast standards
+1. **Trust**: Inspire confidence in the directory platform and listed providers
+2. **Clarity**: Easy navigation and clear information hierarchy
+3. **Warmth**: Approachable and friendly aesthetic for pet owners
+4. **Professionalism**: Appropriate for a service marketplace
+5. **Consistency**: All materials follow brand guidelines across web, social, and marketing
 
 ## 📄 Documentation
 
@@ -249,9 +249,10 @@ Veterinalia/
 ## 📞 Brand Custodianship
 
 This design system should be maintained by:
-- Brand manager or marketing lead
-- Update guidelines as brand evolves
-- Ensure all new materials follow standards
+- Product/Marketing team at Veterinalia
+- Platform designer or brand manager
+- Ensure consistency across web platform, marketing, and partnerships
+- Update guidelines as brand and platform evolve
 - Archive old versions for brand history
 
 ## 🔄 Version Control
@@ -271,6 +272,8 @@ This design system should be maintained by:
 
 ---
 
-**Veterinalia Brand System** | Complete Design Package Ready for Implementation ✨
+**Veterinalia Brand System** | Pet Services Directory Platform Design Package ✨
 
-For questions about brand usage, refer to the comprehensive guidelines in `GuíaIdentidadVeterinalia.pdf` or consult with the brand manager.
+A complete brand identity system for Veterinalia, the trusted marketplace connecting pet owners with quality service providers.
+
+For questions about brand usage, refer to the comprehensive guidelines in `GuíaIdentidadVeterinalia.pdf` or consult with the brand/product team.
